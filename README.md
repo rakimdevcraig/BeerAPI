@@ -4,7 +4,7 @@ The goal with this assignment was to include an existing API into my application
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/BeerAPI/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, APIS
