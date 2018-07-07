@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+ol{
+  float: left;
+  border: 1px solid black;
+  }
+
+.title{
+  text-align: center;
+  font-size: 30px;
+}
+
+.name{
+  width: 10%;
+}
+
+.firstBrewed{
+  width: 10%;
+}
+
+.description{
+  width: 80%;
+}
+
+.foodPairing{
+  width: 10%;
+}
+
+ ol p{
+  text-decoration: underline;
+}
